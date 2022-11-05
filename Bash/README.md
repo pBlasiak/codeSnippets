@@ -6,9 +6,110 @@ Bash
 ------------
 
 ## Table of Contents
- * [Usuniecie wszystkich linii w pliku zawierajacym dane znaki](./README.md#UsuniecieLinii)
+ * [Usuniecie wszystkich linii w pliku zawierajacym dane znaki](./README.md#Usuniecie-Linii)
 
-# UsuniecieLinii
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
+
+- Usuniecie Linii
+
+&nbsp;
+
+	sed -i '/step/d' nazwaPliku
 - Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
 
 &nbsp;
