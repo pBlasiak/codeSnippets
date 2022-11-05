@@ -66,4 +66,4 @@ Bash
 
 &nbsp;
 
-sed -i '/step/d' nazwaPliku
+	sed -i '/step/d' nazwaPliku
