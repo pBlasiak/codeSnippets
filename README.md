@@ -1,4 +1,4 @@
-Code snippets for LaTeX and bash
+Code snippets for LaTeX and Bash
 ========================================
 
 
@@ -52,3 +52,16 @@ LaTex
 - Figures with caption and subcaptions
 
 &nbsp;
+
+
+
+
+
+Bash
+------------
+
+- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+&nbsp;
+
+sed -i '/step/d' nazwaPliku
