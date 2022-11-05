@@ -9,6 +9,7 @@ LaTex
 
 &nbsp;
 
+
 \begin{table}[H]
 	\begin{threeparttable}[b]
   \centering
@@ -50,6 +51,7 @@ LaTex
     \end{threeparttable}
 
 - Figures with caption and subcaptions
+
 
 &nbsp;
 
