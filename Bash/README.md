@@ -6,15 +6,15 @@ Bash
 ------------
 
 - [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie-wszystkich-linii-w-pliku-zawierajacych-znaki-step)
+- [Inny snippet](#inny-snippet)
 
-
-# Heading levels
-
-> This is a fixture to test heading levels
-
-<!-- toc -->
 
 ## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+
+
+	sed -i '/step/d' nazwaPliku
+
+## Inny snippet
 
 
 	sed -i '/step/d' nazwaPliku
