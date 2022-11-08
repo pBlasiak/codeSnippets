@@ -90,7 +90,7 @@ Bash
 &nbsp;
 
 	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
 
 &nbsp;
 
