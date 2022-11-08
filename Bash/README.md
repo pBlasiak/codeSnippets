@@ -22,7 +22,7 @@ Bash
 
 <!-- toc -->
 
-## Heading
+## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
 
 This is an h1 heading
 
