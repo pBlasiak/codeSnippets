@@ -5,7 +5,7 @@ Code snippets for LaTeX and Bash
 Bash
 ------------
 
-- [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie)
+- [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#headin)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
