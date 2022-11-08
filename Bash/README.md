@@ -34,9 +34,9 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Heading
+## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
 
-This is an h1 heading
+This is an h1 heading...........
 
 ### Sub-heading
 
