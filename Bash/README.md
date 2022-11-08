@@ -24,7 +24,7 @@ Bash
 
 ## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
 
-This is an h1 heading
+This is an h1 headingg
 
 ### Sub-heading
 
