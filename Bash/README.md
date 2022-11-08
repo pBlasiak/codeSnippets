@@ -5,114 +5,55 @@ Code snippets for LaTeX and Bash
 Bash
 ------------
 
-## Table of Contents
-<!-- * [Usuniecie wszystkich linii w pliku zawierajacym dane znaki](./README.md#Usuniecie-Linii) -->
- * [Usuniecie wszystkich linii w pliku zawierajacym dane znaki](#usuniecie-Linii)
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
 
-&nbsp;
+# Heading levels
 
-	sed -i '/step/d' nazwaPliku
+> This is a fixture to test heading levels
 
-## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+<!-- toc -->
 
-&nbsp;
+## Heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h1 heading
 
-&nbsp;
+### Sub-heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h2 heading
 
-&nbsp;
+#### Sub-sub-heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h3 heading
 
-&nbsp;
+## Heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h1 heading
 
-&nbsp;
+### Sub-heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h2 heading
 
-&nbsp;
+#### Sub-sub-heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h3 heading
 
-&nbsp;
+## Heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h1 heading
 
-&nbsp;
+### Sub-heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
+This is an h2 heading
 
-&nbsp;
+#### Sub-sub-heading
 
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-
-- Usuniecie Linii
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
-- Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
-
-&nbsp;
-
-	sed -i '/step/d' nazwaPliku
+This is an h3 heading
