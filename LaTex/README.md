@@ -5,10 +5,11 @@ Code snippets for LaTeX and Bash
 LaTex
 ------------
 
-- Tables with footnote
+- [Tables with footnote](#tables-with-footnote)
+- [Figures with caption and subcaptions](#figures-with-caption-and-subcaptions)
 
-&nbsp;
 
+## Tables with footnote
 
 	\begin{table}[H]
 		\begin{threeparttable}[b]
@@ -35,11 +36,10 @@ LaTex
 	  \end{threeparttable}
 	\end{table}
 
-- Figures with caption and subcaptions
+## Figures with caption and subcaptions
 
 
-&nbsp;
-
+	dodaj kod
 
 
 
