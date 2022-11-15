@@ -7,7 +7,7 @@ Bash
 
 - [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie-wszystkich-linii-w-pliku-zawierajacych-znaki-step)
 
-- [Usunięcie wyrazu "Wyraz" z pliku](#usuniecie-wyrazu-wyraz-z-pliku)
+- [Usuniecie wyrazu "Wyraz" z pliku](#usuniecie-wyrazu-wyraz-z-pliku)
 
 - [Usunięcie N-tej linii w pliku](#usuniecie-n-tej-linii-w-pliku)
 
@@ -36,7 +36,7 @@ Bash
 
 	sed -i '/step/d' nazwaPliku
 
-## Usunięcie wyrazu "Wyraz" z pliku
+## Usuniecie wyrazu "Wyraz" z pliku
 
 	sed -i 's/Wyraz//' plik
 
