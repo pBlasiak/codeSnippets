@@ -1,4 +1,4 @@
-Code snippets for LaTeX and Bash
+Code snippets for Bash
 ========================================
 
 
