@@ -6,7 +6,7 @@ Bash
 ------------
 
 - [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie-wszystkich-linii-w-pliku-zawierajacych-znaki-step)
-- [Inny snippet](#inny-snippet)
+- [Grepowanie następnego wyrazu po "RASModel"](#grepowanie-nastepnego-wyrazu-po-rasmodel)
 
 
 ## Usuniecie wszystkich linii w pliku zawierajacych znaki "step"
@@ -14,7 +14,6 @@ Bash
 
 	sed -i '/step/d' nazwaPliku
 
-## Inny snippet
+## Grepowanie następnego wyrazu po "RASModel"
 
-
-	sed -i '/step/d' nazwaPliku
+	grep -Po '(?<=RASModel\s)\w+' path/to/file
