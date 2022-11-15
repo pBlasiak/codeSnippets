@@ -45,11 +45,11 @@ Bash
 	sed 'Nd' plik
 	sed '1d;3d;4d' plik
 
-## Grepowanie następnego wyrazu po "RASModel"
+## Grepowanie nastepnego wyrazu po "RASModel"
 
 	grep -Po '(?<=RASModel\s)\w+' plik
 
-## Grepowanie następnego wyrazu po zadanym i zakończenie grepowania
+## Grepowanie nastepnego wyrazu po zadanym i zakonczenie grepowania
 
 	grep -A 1 -m 1 Wyraz plik
 
@@ -57,26 +57,26 @@ Bash
 
 	grep "Wyraz" plik | tail -1 
 
-## Grepowanie liczb wliczając zapis naukowy
+## Grepowanie liczb wliczajac zapis naukowy
 
 	grep -Eo '[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?.' plik
 
-## Grepowanie linii w pliku zawierających "Wyraz"
+## Grepowanie linii w pliku zawierajacych "Wyraz"
 
 	grep -i "Wyraz" plik
 
-## Wyświetlenie N-tej kolumny pliku
+## Wyswietlenie N-tej kolumny pliku
 
 	awk '{ print $2 }' plik
 
-## Wyświetlenie kolumn o stałej szerokości w terminalu
+## Wyswietlenie kolumn o stalej szerokosci w terminalu
 
 	printf '\t%-15s %-15s %-15s %-15s %-15s %-15s %-15s %-15s\n' $CD $turbMod "mesh =" $mesh "y+ =" $yPlus "dp =" $dp
 
-## Wyświetlenie ostatniej linii w pliku
+## Wyswietlenie ostatniej linii w pliku
 
 	tail -1 plik
 
-## Zmiana części nazwy pliku rekursywnie w podfolderach
+## Zmiana czesci nazwy pliku rekursywnie w podfolderach
 
 	find /the/path -depth -name "*.abc" -exec sh -c 'mv "$1" "${1%.abc}.edefg"' _ {} \;
