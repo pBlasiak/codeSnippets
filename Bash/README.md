@@ -40,7 +40,7 @@ Bash
 
 	sed -i 's/Wyraz//' plik
 
-## Usunięcie N-tej linii w pliku
+## Usuniecie N-tej linii w pliku
 
 	sed 'Nd' plik
 	sed '1d;3d;4d' plik
