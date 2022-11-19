@@ -44,7 +44,7 @@ Bash
 
 ## Zamiana tylko pierwszego wystapienia wyrazu "Wyraz" w pliku
 
-	sed '0,/Wyraz/{s/Wyraz/Banan/}' plik
+	sed -i '0,/Wyraz/s//Banan/' plik
 
 ## Usuniecie N-tej linii w pliku
 
