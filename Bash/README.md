@@ -9,6 +9,8 @@ Bash
 
 - [Usuniecie wyrazu "Wyraz" z pliku](#usuniecie-wyrazu-wyraz-z-pliku)
 
+- [Zamiana tylko pierwszego wystąpienia wyrazu "Wyraz" w pliku](#zamiana-tylko-pierwszego-wystapienia-wyrazu-wyraz-w-pliku)
+
 - [Usunięcie N-tej linii w pliku](#usuniecie-n-tej-linii-w-pliku)
 
 - [Grepowanie następnego wyrazu po "RASModel"](#grepowanie-nastepnego-wyrazu-po-rasmodel)
@@ -39,6 +41,10 @@ Bash
 ## Usuniecie wyrazu "Wyraz" z pliku
 
 	sed -i 's/Wyraz//' plik
+
+## Zamiana tylko pierwszego wystapienia wyrazu "Wyraz" w pliku
+
+	sed '0,/Wyraz/{s/Wyraz/Banan/}' plik
 
 ## Usuniecie N-tej linii w pliku
 
