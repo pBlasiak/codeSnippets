@@ -2,7 +2,7 @@ Code snippets for LaTeX
 ========================================
 
 
-LaTex
+LaTeX
 ------------
 
 - [Tables with footnote](#tables-with-footnote)
