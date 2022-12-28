@@ -40,7 +40,7 @@ LaTeX
 
 
 	\begin{figure}[H]
-	\widefigure
+	\centering
 	\subfloat[<++>]{\includegraphics[scale=0.28]{figures/<++>}\label{fig:<++>}}
 	  \\
 	\subfloat[<++>]{\includegraphics[scale=0.28]{figures/<++>}\label{fig:<++>}}
