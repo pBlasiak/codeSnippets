@@ -4,6 +4,21 @@ Code snippets for Bash
 
 Bash
 ------------
+Przydatne skróty:
+
+	ctrl + k	- cut all after cursor
+
+	ctrl + u	- cut all before cursor
+
+	ctrl + w	- cut word before cursor
+
+	ctrl + y	- paste
+
+	ctrl + _	- undo
+
+	alt + u		- make uppercase from cursor to end of word
+
+	alt + l		- make lowercase from cursor to end of word
 
 - [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie-wszystkich-linii-w-pliku-zawierajacych-znaki-step)
 
