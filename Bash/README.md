@@ -20,7 +20,7 @@ Przydatne skróty:
 
 	alt + l		- make lowercase from cursor to end of word
 
-- [Skopiowanie pliku fvSolution do wszystkich folderów system w danym katalogu](#skopiowanie-pliku-fvSolution-do-wszystkich-folderow-system-w-danym-katalogu)
+- [Skopiowanie pliku fvSolution do wszystkich folderow system w danym katalogu](#skopiowanie-pliku-fvSolution-do-wszystkich-folderow-system-w-danym-katalogu)
 
 - [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie-wszystkich-linii-w-pliku-zawierajacych-znaki-step)
 
