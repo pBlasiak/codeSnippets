@@ -20,6 +20,8 @@ Przydatne skróty:
 
 	alt + l		- make lowercase from cursor to end of word
 
+- [Skopiowanie pliku fvSolution do wszystkich folderów system w danym katalogu](#skopiowanie-pliku-fvSolution-do-wszystkich-folderow-system-w-danym-katalogu)
+
 - [Usuniecie wszystkich linii w pliku zawierajacych znaki "step"](#usuniecie-wszystkich-linii-w-pliku-zawierajacych-znaki-step)
 
 - [Usuniecie wyrazu "Wyraz" z pliku](#usuniecie-wyrazu-wyraz-z-pliku)
@@ -47,6 +49,21 @@ Przydatne skróty:
 
 - [Zmiana części nazwy pliku rekursywnie w podfolderach](#zmiana-czesci-nazwy-pliku-rekursywnie-w-podfolderach)
 
+
+## Skopiowanie pliku fvSolution do wszystkich folderów system w danym katalogu
+
+	find /path/to/cases -type d -name system -exec cp /path/to/fvSolution {}/fvSolution \;
+
+    •	find /path/to/cases – search inside /path/to/cases (recursively, all subfolders).
+    •	-type d – only look for directories.
+    •	-name system – only match directories named exactly system.
+    •	-exec ... \; – for each matching directory, run the following command:
+    	cp /path/to/fvSolution {}/fvSolution
+	cp copies your fvSolution file.
+	{} is replaced by the current system directory found by find.
+	/fvSolution appends the filename, so the file is copied inside that system folder.
+So, for every system folder found, it runs:
+cp /path/to/fvSolution /that/system/folder/fvSolution
 
 
 ## Usuniecie wszystkich linii w pliku zawierajacych znaki "step" 
