@@ -50,7 +50,7 @@ Przydatne skróty:
 - [Zmiana części nazwy pliku rekursywnie w podfolderach](#zmiana-czesci-nazwy-pliku-rekursywnie-w-podfolderach)
 
 
-## Skopiowanie pliku fvSolution do wszystkich folderów system w danym katalogu
+## Skopiowanie pliku fvSolution do wszystkich folderow system w danym katalogu
 
 	find /path/to/cases -type d -name system -exec cp /path/to/fvSolution {}/fvSolution \;
 
